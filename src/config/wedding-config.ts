@@ -30,7 +30,7 @@ export const weddingConfig = {
 
   // 소개글
   intro: {
-    title: "ㅇㅇㅇㅇㅇ",
+    title: "",
     text: "두바이\n쫀득\n쿠키\n바닐라\n버븥티."
   },
 
