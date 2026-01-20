@@ -30,18 +30,18 @@ export const weddingConfig = {
 
   // 소개글
   intro: {
-    title: "",
+    title: "ㅇㅇㅇㅇㅇ",
     text: "두바이\n쫀득\n쿠키\n바닐라\n버븥티."
   },
 
   // 결혼식 일정
   date: {
-    year: 2026,
-    month: 5,
-    day: 16,
-    hour: 12,
-    minute: 30,
-    displayDate: "2026.05.16 SAT PM 12:30",
+    year: 2027,
+    month: 3,
+    day: 15,
+    hour: 13,
+    minute: 00,
+    displayDate: "2027.03.15 SAT PM 12:30",
   },
 
   // 장소 정보
@@ -101,15 +101,15 @@ export const weddingConfig = {
 
   // 초대의 말씀
   invitation: {
-    message: "한 줄기 별빛이 되어 만난 인연\n평생을 함께 걸어가려 합니다.\n\n소중한 분들의 축복 속에\n저희 두 사람이 첫 걸음을 내딛습니다.\n\n귀한 시간 내어 함께해 주신다면\n그 어떤 축복보다 값진 선물이 될 것입니다.",
+    message: "올 때\n메로나.",
     groom: {
-      name: "신랑이름",
+      name: "김상원",
       label: "아들",
       father: "신랑아버지",
       mother: "신랑어머니",
     },
     bride: {
-      name: "신부이름",
+      name: "황지현",
       label: "딸",
       father: "신부아버지",
       mother: "신부어머니",
